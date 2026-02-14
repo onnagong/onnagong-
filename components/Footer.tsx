@@ -12,6 +12,7 @@ const Footer: React.FC = () => {
             <div className="space-y-2">
               <p>운영 시간: 오전 10:00 ~ 오후 9:00</p>
               <p>매주 일요일 휴무</p>
+              <p className="text-sm text-stone-400">공휴일은 스케줄 따라 변동 있음</p>
             </div>
           </div>
           <div className="flex flex-col gap-4">
